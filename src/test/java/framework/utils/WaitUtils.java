@@ -10,6 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class WaitUtils {
 
+    @SuppressWarnings("unused")
     private WebDriver driver;
 
     private WebDriverWait wait;
